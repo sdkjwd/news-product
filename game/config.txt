@@ -1,0 +1,5 @@
+Game_name:game;
+Game_key:10299d5234e409a;
+Package_name:;
+Title_bgm:s_Title.mp3;
+Title_img:WebGAL_New_Enter_Image.png;
